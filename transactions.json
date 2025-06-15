@@ -1,0 +1,1448 @@
+[
+    {
+        "date": "2025-05-01",
+        "category": "Salary",
+        "amount": 500,
+        "description": ""
+    },
+    {
+        "date": "2025-10-22",
+        "category": "Games",
+        "amount": -250,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple"
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Rent",
+        "amount": 500.0,
+        "description": "I recieved 500$ today from Apple company and fuck Apple"
+    },
+    {
+        "date": "2024-11-04",
+        "category": "slary",
+        "amount": 1000.0,
+        "description": ""
+    },
+    {
+        "date": "2025-05-01",
+        "category": "food",
+        "amount": -100.0,
+        "description": "i paid for the food at Sebet restaurant"
+    },
+    {
+        "date": "2025-04-22",
+        "category": "food",
+        "amount": -9.0,
+        "description": "i bought grocery for home"
+    },
+    {
+        "date": "25-01-24",
+        "category": "rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-11-10",
+        "category": "food",
+        "amount": -34.0,
+        "description": ""
+    },
+    {
+        "date": "2025-01-05",
+        "category": "Salary",
+        "amount": 500.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-11",
+        "category": "Rent",
+        "amount": -225.0,
+        "description": ""
+    },
+    {
+        "date": "2025-10-15",
+        "category": "Food",
+        "amount": -50,
+        "description": ""
+    },
+    {
+        "date": "2025-10-10",
+        "category": "Birthday",
+        "amount": -100,
+        "description": ""
+    },
+    {
+        "date": "2025-10-05",
+        "category": "Salary",
+        "amount": 900,
+        "description": ""
+    },
+    {
+        "date": "2025-10-01",
+        "category": "Rent",
+        "amount": -225,
+        "description": ""
+    },
+    {
+        "date": "2025-10-29",
+        "category": "Bank Heist",
+        "amount": 5000,
+        "description": ""
+    },
+    {
+        "date": "2025-10-12",
+        "category": "Gift",
+        "amount": -50,
+        "description": ""
+    }
+]
